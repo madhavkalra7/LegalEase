@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd Kratos.ai-main/frontend && npm run build",
+  "outputDirectory": "Kratos.ai-main/frontend/.next",
+  "installCommand": "cd Kratos.ai-main/frontend && npm install --legacy-peer-deps",
+  "framework": "nextjs"
+}
